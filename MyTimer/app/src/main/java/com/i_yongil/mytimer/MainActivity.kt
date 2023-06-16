@@ -55,8 +55,7 @@ fun TimerScreen() {
         }
     }
 
-
-
+    
     Column(
         horizontalAlignment = Alignment.CenterHorizontally
     ) {
